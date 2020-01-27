@@ -1,0 +1,7 @@
+#exclude all jpeg and jpg as well as .DS_Store
+# * means all
+
+*.jpg
+*.jpeg
+*.gif
+*.png
