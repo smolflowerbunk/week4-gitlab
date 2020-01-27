@@ -2,7 +2,7 @@ This is text file 1.
 
 Contact: paulb@sfu.ca
 
-OfficeHour: 1:00pm - 2:00pm Monday
+OfficeHour: 1:00pm - 2:00pm Tuesday
 
 
 more edit
